@@ -1,3 +1,3 @@
 # GrafikaKom
 Laboratorium z Grafiki Komputerowej 
-Piramida Sierpińskiego
+Piramida Sierpińskiego na 4
